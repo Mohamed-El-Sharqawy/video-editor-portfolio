@@ -80,7 +80,7 @@ const arTranslations = {
   },
   hero: {
     transforming: 'تحويل',
-    ideasIntoViral: 'الأفكار إلى محتوى فيروسي',
+    ideasIntoViral: 'الأفكار إلى محتوى مشهور',
     description: 'أساعد المنشئين والعلامات التجارية على سرد قصصهم من خلال محتوى فيديو قوي وجذاب وقابل للمشاركة يتواصل مع الجماهير.',
     workWithMe: 'اعمل معي',
     viewPortfolio: 'عرض الأعمال',
